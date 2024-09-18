@@ -128,5 +128,3 @@ if st.button("Show Patients"):
         patients.sort(key=lambda x: x.urgency_level, reverse=True)
 
     st.session_state.patient_list.display(patients)
-
-# streamlit run "F:\MyProject\Lib\DSA.py"
