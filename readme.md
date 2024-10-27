@@ -44,3 +44,5 @@ Click "Remove Patient" to remove the patient from the list.
 4. Display Patients
 Choose how you want to sort the list of patients (either by admission time or urgency level).
 Click "Show Patients" to display the list of patients.
+
+App Link: https://patientmanagementsystem.streamlit.app/
